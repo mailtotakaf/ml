@@ -20,10 +20,16 @@
     4_svm.py \
 
 - ロジスティック回帰 \
+    計算が難しい
     5_LogisticRegression.py \
 
 - 2値分類のニューラルネットワーク \
     6_make_classification.py
 
+### 回帰
+- 回帰分析 \
+    7_LinearRegression.py \
+
+    
 
 
