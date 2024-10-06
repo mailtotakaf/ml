@@ -17,6 +17,10 @@
     3_MultinomialNB.py \
 
 - サポートベクターマシン（SVM） \
+    4_svm.py \
+
+- ロジスティック回帰 \
+    5_LogisticRegression.py \
 
 
 
