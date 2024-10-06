@@ -33,7 +33,11 @@
 ### 分類
 - k-means法 \
     8_KMeans.py \
-    ![alt text](image.png)
+    ![alt text](image.png) \
+
+- 主成分分析 \
+    9_PCA.py \
+    ![alt text](image-1.png)
 
 
 
