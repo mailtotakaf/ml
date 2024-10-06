@@ -5,3 +5,7 @@
 ### 識別（AかBか）
 - 決定木 \
     1_DecisionTreeClassifier.py
+
+- ランダムフォレスト \
+    2_RandomForestClassifier.py
+
