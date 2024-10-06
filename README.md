@@ -4,8 +4,18 @@
 
 ### 識別（AかBか）
 - 決定木 \
-    1_DecisionTreeClassifier.py
+アイリスデータセットを使用した例 \
+    1_DecisionTreeClassifier.py \
+    
 
 - ランダムフォレスト \
-    2_RandomForestClassifier.py
+アイリスデータセットを使用した例 \
+    2_RandomForestClassifier.py \
+
+- ナイーブベイズ \
+    主に自然言語の分類で使用される \
+    3_MultinomialNB.py \
+
+
+
 
