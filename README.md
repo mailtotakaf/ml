@@ -30,6 +30,12 @@
 - 回帰分析 \
     7_LinearRegression.py \
 
-    
+### 分類
+- k-means法 \
+    8_KMeans.py \
+    ![alt text](image.png)
+
+
+
 
 
