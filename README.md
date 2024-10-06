@@ -22,6 +22,8 @@
 - ロジスティック回帰 \
     5_LogisticRegression.py \
 
+- 2値分類のニューラルネットワーク \
+    6_make_classification.py
 
 
 
